@@ -1,0 +1,8 @@
+{
+    "name": "Random Figures",
+    "description": "NFT collection of 2 random figures",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/640px-NewTux.svg.png",
+    "external_link": "https://maikreal.github.io/shit-collection",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "EQB33ymm5HQUtl2uAyCK18GadcmFdKdJQ24fQPOkyBpxlg7U"
+  }
