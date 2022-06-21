@@ -1,0 +1,28 @@
+{
+  "attributes" : [
+    {
+      "trait_type": "Heads",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Hands",
+      "value": "Dark"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "LightPurple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Purple"
+    }
+  ],
+  "description" : "Test NFT collection of random figures",
+  "external_url" : "https://maikreal.github.io/shit-collection",
+  "image" : "https://drive.google.com/file/d/1g4GtMUxdePkJpu99GQRh6hGe7U-epIiz/view?usp=sharing",
+  "name" : "Random Figure #1"
+}
