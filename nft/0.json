@@ -23,6 +23,6 @@
   ],
   "description" : "Test NFT collection of random figures",
   "external_url" : "https://maikreal.github.io/shit-collection",
-  "image" : "https://github.com/maikReal/ton-nft-deployer/blob/main/nft/0.png",
+  "image" : "https://github.com/maikReal/ton-nft-deployer/blob/main/nft/0.png?raw=true",
   "name" : "Random Figure #1"
 }
