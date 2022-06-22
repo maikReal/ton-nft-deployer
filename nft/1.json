@@ -1,22 +1,27 @@
 {
   "attributes" : [
     {
+      "display_type" : "Heads",
       "trait_type": "Heads",
       "value": "Orange"
     },
     {
+      "display_type" : "Hands",
       "trait_type": "Hands",
       "value": "Dark"
     },
     {
+      "display_type" : "Legs",
       "trait_type": "Legs",
       "value": "LightPurple"
     },
     {
+      "display_type" : "Body",
       "trait_type": "Body",
       "value": "Green"
     },
     {
+      "display_type" : "Eyes",
       "trait_type": "Eyes",
       "value": "Pink"
     }
