@@ -1,7 +1,7 @@
 {
     "name": "Random Figures #2",
     "description": "NFT collection of 2 random figures  #2",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/NewTux.svg/640px-NewTux.svg.png",
+    "image": "https://github.com/maikReal/ton-nft-deployer/blob/main/logo.jpg?raw=true",
     "external_link": "https://maikreal.github.io/shit-collection",
     "seller_fee_basis_points": 100,
     "fee_recipient": "EQB33ymm5HQUtl2uAyCK18GadcmFdKdJQ24fQPOkyBpxlg7U"
